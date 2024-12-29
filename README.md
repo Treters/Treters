@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Treters
+- 👀 I’m interested in computers in general
+- 🌱 I’m currently learning python 
